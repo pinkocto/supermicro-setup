@@ -3,7 +3,8 @@
 
 
 - Boot: `UEFI USB Hard Disk`
-- Advanced > CPU Configuration \n
+- Advanced > CPU Configuration
+  
 *Check the setting `Intel® Virtualization Technology` and ensure it is set to `Disabled`*
 
 ### Installing a new Ubuntu operating system
