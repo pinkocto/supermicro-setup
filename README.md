@@ -17,7 +17,8 @@ By following this order, you will correctly erase the existing Rocky Linux insta
 
 ***1.3. Reboot:***
 - Save changes and exit the BIOS setup.
-- Reboot the system to apply the new BIOS settings.
+- Insert the USB drive with the Ubuntu installation media.
+- Reboot the system to apply the new BIOS settings and start the installation from the USB drive.
 
 ### 2. Installing a new Ubuntu operating system
 - Connect to the internet: `Use wired connection`
