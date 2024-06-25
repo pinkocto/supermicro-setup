@@ -8,11 +8,11 @@ By following this order, you will correctly erase the existing Rocky Linux insta
 ***1.1. Boot Settings***
 - Enter the BIOS setup.
 - Navigate to the `Boot` menu.
-- Set the boot device to UEFI USB Hard Disk
+- Set the boot device to `UEFI USB Hard Disk`
 
 ***1.2. Advanced Settings:***
-- Navigate to the Advanced tab.
-- Go to CPU Configuration.
+- Navigate to the `Advanced` tab.
+- Go to `CPU Configuration`.
 - Check the setting `Intel® Virtualization Technology` and ensure it is set to `Disabled`
 
 ### 2. Installing a new Ubuntu operating system
