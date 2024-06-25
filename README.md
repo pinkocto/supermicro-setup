@@ -5,8 +5,8 @@ supermicro server setup-guide
 - What do you want to do with Ubuntu?: `install Ubuntu`
 - How would you like to install Ubunto?: `Interactive installation`
 - What apps would you like to install to start with?: `Default selection`
-- How do you want to install Ubunto?: `Erase disk and install Ubuntu` (Advanced 
-- 
+- How do you want to install Ubunto?: `Erase disk and install Ubuntu` (Please check if it is "Advanced features: None.")
+- Create your account
 
 ```python
 # 아래 코드를 실행하기 전 네트워크 설정 먼저
