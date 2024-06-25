@@ -13,7 +13,7 @@ By following this order, you will correctly erase the existing Rocky Linux insta
 ***1.2. Advanced Settings:***
 - Navigate to the Advanced tab.
 - Go to CPU Configuration.
-- Check the setting Intel® Virtualization Technology and ensure it is set to Disabled
+- Check the setting `Intel® Virtualization Technology` and ensure it is set to `Disabled`
 
 ### 2. Installing a new Ubuntu operating system
 - Connect to the internet: `Use wired connection`
