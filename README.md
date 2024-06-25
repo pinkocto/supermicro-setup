@@ -3,6 +3,22 @@
 
 By following this order, you will correctly erase the existing Rocky Linux installation, install the new Ubuntu operating system, and then install and configure the OpenSSH server.
 
+### 0. Preparing the Ubuntu Installation USB
+***0.1. Download Ubuntu ISO:***
+- Go to the Ubuntu website.
+- Download the latest Ubuntu Desktop ISO file.
+
+***0.2.Create a Bootable USB Drive:***
+- Use a tool like Rufus (for Windows), balenaEtcher (for Windows, macOS, and Linux), or the Startup Disk Creator (for Ubuntu) to create a bootable USB drive.
+- Insert the USB drive into your computer.
+- Open the tool you chose to use.
+- Select the downloaded Ubuntu ISO file.
+- Select the USB drive as the destination.
+- Click the button to start creating the bootable USB drive.
+
+Once the bootable USB drive is ready, you can proceed with the BIOS settings configuration and the installation process.
+
+
 ### 1. BIOS Settings Configuration
 
 ***1.1. Boot Settings***
