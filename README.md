@@ -1,5 +1,5 @@
 # supermicro-setup
-supermicro server setup-guide
+> supermicro server setup-guide
 
 
 - Boot: `UEFI USB Hard Disk`
