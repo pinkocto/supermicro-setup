@@ -3,7 +3,8 @@
 
 
 - Boot: `UEFI USB Hard Disk`
-- Advanced: `CPU` > `virtual`
+- Advanced > CPU Configuration
+*Check the setting `Intel® Virtualization Technology` and ensure it is set to `Disabled`*
 
 ### Installing a new Ubuntu operating system
 - Connect to the internet: `Use wired connection`
