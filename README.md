@@ -7,7 +7,7 @@ By following this order, you will correctly erase the existing Rocky Linux insta
 ***0.1. Download Ubuntu ISO:***
 - Go to the Ubuntu website.
 - Download the latest Ubuntu Desktop ISO file.
-<img src="https://github.com/pinkocto/supermicro-setup/assets/57980370/015babd9-4fd6-4dc5-bdbc-a7781bd509fa" alt="description" width="500" height="300">
+<img src="https://github.com/pinkocto/supermicro-setup/assets/57980370/015babd9-4fd6-4dc5-bdbc-a7781bd509fa" alt="description" width="500" height="250">
 
 ***0.2.Create a Bootable USB Drive:***
 - Use a tool like Rufus (for Windows), balenaEtcher (for Windows, macOS, and Linux), or the Startup Disk Creator (for Ubuntu) to create a bootable USB drive.
