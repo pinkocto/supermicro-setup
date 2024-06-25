@@ -5,7 +5,7 @@ By following this order, you will correctly erase the existing Rocky Linux insta
 
 ### 0. Preparing the Ubuntu Installation USB
 ***0.1. Download Ubuntu ISO:***
-- Go to the Ubuntu website.
+- Go to the [Ubuntu website](https://ubuntu.com/download/desktop).
 - Download the latest Ubuntu Desktop ISO file.
 <img src="https://github.com/pinkocto/supermicro-setup/assets/57980370/015babd9-4fd6-4dc5-bdbc-a7781bd509fa" alt="description" width="500" height="250">
 
