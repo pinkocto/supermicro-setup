@@ -10,7 +10,7 @@ By following this order, you will correctly erase the existing Rocky Linux insta
 <img src="https://github.com/pinkocto/supermicro-setup/assets/57980370/015babd9-4fd6-4dc5-bdbc-a7781bd509fa" alt="description" width="500" height="250">
 
 ***0.2.Create a Bootable USB Drive:***
-> [Creating a Bootable Ubuntu Installation USB with Rufus]()
+> [🔅 Guide: Creating a Bootable Ubuntu Installation USB with Rufus](https://github.com/pinkocto/supermicro-setup/blob/main/Rufus-guide.md)
 - Use a tool like [Rufus](https://rufus.ie/ko/) (for Windows), balenaEtcher (for Windows, macOS, and Linux), or the Startup Disk Creator (for Ubuntu) to create a bootable USB drive.
 - Insert the USB drive into your computer.
 - Open the tool you chose to use.
